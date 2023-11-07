@@ -55,7 +55,7 @@ const CreatePage=()=>
                 </h1>
                 <p>
                     What would you like to name your course?
-                    Don't worry,you can change this later
+                    Dont worry,you can change this later
                 </p>
                 <Form {...form}>
                     <form onSubmit={form.handleSubmit(onSubmit)}
